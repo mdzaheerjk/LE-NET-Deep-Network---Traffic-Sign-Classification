@@ -90,7 +90,7 @@ graph LR
 
 ```bash
 # Clone repository
-git clone https://github.com/mdzaheerjk/M-project1-Traffic-Sign-Classification.git
+git clone https://github.com/mdzaheerjk/ML-project1-Traffic-Sign-Classification.git
 cd ML-project1-Traffic-Sign-Classification
 ```
 
