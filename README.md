@@ -52,7 +52,7 @@ Classify 43 types of German traffic signs based on image data using a deep learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mdzaheerjk/LE-NET-Deep-Network---Traffic-Sign-Classification.git
+   git clone https://github.com/mdzaheerjk/project1-Traffic-Sign-Classification.git
    cd priject1-Traffic-Sign-Classification
 
 ### ✅ Install Dependencies
