@@ -59,9 +59,8 @@ Classify 43 types of German traffic signs based on image data using a deep learn
 ```bash
 pip install -r requirements.txt
 
-Project 5 - Traffic Sign Classification Using LeNet Network in Keras.ipynb
-
 ```
+ #### Project 5 - Traffic Sign Classification Using LeNet Network in Keras.ipynb
 
 ###  📈 Results
 
