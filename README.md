@@ -3,7 +3,7 @@
 A deep learning project that classifies traffic signs using the **LeNet-5** Convolutional Neural Network (CNN) implemented with **Keras**. Trained on the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
 
 > 📌 Project 5 - Part of Deep Learning Course Assignments  
-> 📁 Repository: [`LE-NET-Deep-Network---Traffic-Sign-Classification`](https://github.com/mdzaheerjk/LE-NET-Deep-Network---Traffic-Sign-Classification)
+> 📁 Repository: [`project-Traffic-Sign-Classification`](https://github.com/mdzaheerjk/project-Traffic-Sign-Classification)
 
 ---
 
