@@ -3,7 +3,7 @@
 A deep learning project that classifies traffic signs using the **LeNet-5** Convolutional Neural Network (CNN) implemented with **Keras**. Trained on the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
 
 > 📌 Project 5 - Part of Deep Learning Course Assignments  
-> 📁 Repository: [`project-Traffic-Sign-Classification`](https://github.com/mdzaheerjk/project-Traffic-Sign-Classification)
+> 📁 Repository: [`project1-Traffic-Sign-Classification`](https://github.com/mdzaheerjk/project1-Traffic-Sign-Classification)
 
 ---
 
@@ -53,7 +53,7 @@ Classify 43 types of German traffic signs based on image data using a deep learn
 1. Clone this repository:
    ```bash
    git clone https://github.com/mdzaheerjk/LE-NET-Deep-Network---Traffic-Sign-Classification.git
-   cd LE-NET-Deep-Network---Traffic-Sign-Classification
+   cd priject1-Traffic-Sign-Classification
 
 ### ✅ Install Dependencies
 ```bash
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 
 ```bash
-LE-NET-Deep-Network---Traffic-Sign-Classification/
+project1-Traffic-Sign-Classification/
 │
 ├── traffic-signs-data/                        # Dataset directory
 ├── Project 5 - Traffic Sign Classification Using LeNet Network in Keras.ipynb
