@@ -8,7 +8,7 @@
 A deep learning project implementing **LeNet-5 architecture** to classify traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset with 99%+ validation accuracy.
 
 > 📌 **Course Project** - Deep Learning & Computer Vision  
-> 📁 **Repository**: `project1-Traffic-Sign-Classification`
+> 📁 **Repository**: `ML-project1-Traffic-Sign-Classification`
 
 ---
 
@@ -90,8 +90,8 @@ graph LR
 
 ```bash
 # Clone repository
-git clone https://github.com/mdzaheerjk/project1-Traffic-Sign-Classification.git
-cd project1-Traffic-Sign-Classification
+git clone https://github.com/mdzaheerjk/M-project1-Traffic-Sign-Classification.git
+cd ML-project1-Traffic-Sign-Classification
 ```
 
 ### Install dependencies
@@ -105,7 +105,7 @@ jupyter notebook "Project 5 - Traffic Sign Classification Using LeNet Network in
 
 ### 📂 Project Structure
 ```bash
-project1-Traffic-Sign-Classification/
+ML-project1-Traffic-Sign-Classification/
 ├── Project/
 │   ├── traffic-signs-data/       # Dataset samples
 │   ├── Project 5 - Traffic Sign Classification Using LeNet Network in Keras.ipynb
